@@ -17,7 +17,7 @@ resources:
   image: /assets/img/discourse.png
   url: https://community.p2pu.org
   tag: forum
-- title: Dodatkowe materiały dla moderatora
+- title: Dodatkowe materiały dla moderatora (po angielsku)
   image: /assets/img/p2pu.jpeg
   url: https://www.p2pu.org/en/facilitate
 layout: facilitate

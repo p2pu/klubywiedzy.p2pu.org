@@ -11,18 +11,13 @@ faq_title: Często zadawane pytania
 faq:
 - q: Co to jest klub wiedzy?
   a: 'Klub wiedzy to grupa osób, które spotykają się regularnie po to, by wspólnie
-    się czegoś uczyć.
+    się czegoś uczyć. Kluby wiedzy są:
 
-    Kluby wiedzy są:
+    - otwarte dla wszystkich zainteresowanych,
 
-    otwarte dla wszystkich zainteresowanych,
+    - nieodpłatne,
 
-
-    nieodpłatne,
-
-
-    cykliczne (uczestnicy kluby spotykają się zazwyczaj 6-8 razy).
-
+    - cykliczne (uczestnicy kluby spotykają się zazwyczaj 6-8 razy).
 
 
     Spotkania klubów prowadzą moderatorzy, którzy nie są nauczycielami. Zwykle nie
@@ -76,15 +71,11 @@ faq:
     - przeprowadzamy badania i przygotowujemy zasoby edukacyjne, które zostaną udostępnione
     w językach wszystkich partnerów projektu,
 
-
     - upowszechniamy metodologię “klubów wiedzy”,
-
 
     - przygotowujemy ekspertów, którzy przeszkolą moderatorów klubów wiedzy,
 
-
-    - przeprowadzamy szkolenia dla moderatorów, którzy będą prowadzić w bibliotekach
-    kluby wiedzy.'
+    - przeprowadzamy szkolenia dla moderatorów, którzy będą prowadzić w bibliotekach kluby wiedzy.'
 - q: Kto może założyć klub wiedzy i prowadzić spotkania?
   a: Każdy! Utworzenie klubu wiedzy nie wiąże się z żadnymi opłatami.Wystarczy założyć
     konto na platformie P2PU. Przygotowujemy zasoby edukacyjne dla moderatorów, które
