@@ -22,6 +22,10 @@ resources:
       1. Co trzeba wiedzieć o klubach wiedzy?
     url: https://biblioteki.org/dam/jcr:2190dfb3-683c-4f74-9091-f6a5db6b1ae3/Jak_prowadzic_klub_wiedzy_Cz_1_Co_trzeba_wiedziec.pdf
     image: /assets/img/kluby_wiedzy_podrecznik_1.png
+  - title: "Jak prowadzić klub wiedzy? Podręcznik dla moderatorów i moderatorek. Cz.
+      2. Samokształcenie "
+    url: https://biblioteki.org/dam/jcr:efb4912e-06fe-41da-a148-d9c20839405e/Jak_prowadzic_klub_wiedzy_Cz_2_Samoksztakcenie.pdf
+    image: /assets/img/kluby_wiedzy_podrecznik_2.png
 layout: facilitate
 bundles:
   - style
