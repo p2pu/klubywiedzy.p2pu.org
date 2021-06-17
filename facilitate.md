@@ -26,6 +26,10 @@ resources:
       2. Samokształcenie "
     url: https://biblioteki.org/dam/jcr:efb4912e-06fe-41da-a148-d9c20839405e/Jak_prowadzic_klub_wiedzy_Cz_2_Samoksztakcenie.pdf
     image: /assets/img/kluby_wiedzy_podrecznik_2.png
+  - title: Jak prowadzić klub wiedzy? Podręcznik dla moderatorów i moderatorek. Cz.
+      3. Moderowanie spotkań
+    url: https://biblioteki.org/dam/jcr:47ac68a2-ba97-40d2-80c8-61958caca5d5/Jak_prowadzic_klub_wiedzy_Cz_3_Moderowanie.pdf
+    image: /assets/img/kluby_wiedzy_podrecznik_3.png
 layout: facilitate
 bundles:
   - style
