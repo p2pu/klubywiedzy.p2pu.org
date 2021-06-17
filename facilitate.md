@@ -30,6 +30,10 @@ resources:
       3. Moderowanie spotkań
     url: https://biblioteki.org/dam/jcr:47ac68a2-ba97-40d2-80c8-61958caca5d5/Jak_prowadzic_klub_wiedzy_Cz_3_Moderowanie.pdf
     image: /assets/img/kluby_wiedzy_podrecznik_3.png
+  - title: "Jak prowadzić klub wiedzy? Podręcznik dla moderatorów i moderatorek. Cz.
+      4. Kluby wiedzy online "
+    url: https://biblioteki.org/dam/jcr:78e690b5-008e-4c9e-9766-9aa3f6d1350b/Jak_prowadzic_klub_wiedzy_Cz_4_Kluby_online.pdf
+    image: /assets/img/kluby_wiedzy_podrecznik_4.png
 layout: facilitate
 bundles:
   - style
