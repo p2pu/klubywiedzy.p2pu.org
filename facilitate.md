@@ -11,13 +11,6 @@ resources:
   - title: Kursy klubu wiedzy
     image: /assets/img/courses.gif
     url: /courses
-  - title: Forum moderatorów
-    image: /assets/img/discourse.png
-    url: https://community.p2pu.org
-    tag: forum
-  - title: Dodatkowe materiały dla moderatora (po angielsku)
-    image: /assets/img/p2pu.jpeg
-    url: https://www.p2pu.org/en/facilitate
   - title: Jak prowadzić klub wiedzy? Podręcznik dla moderatorów i moderatorek. Cz.
       1. Co trzeba wiedzieć o klubach wiedzy?
     url: https://biblioteki.org/dam/jcr:2190dfb3-683c-4f74-9091-f6a5db6b1ae3/Jak_prowadzic_klub_wiedzy_Cz_1_Co_trzeba_wiedziec.pdf
@@ -34,6 +27,17 @@ resources:
       4. Kluby wiedzy online "
     url: https://biblioteki.org/dam/jcr:78e690b5-008e-4c9e-9766-9aa3f6d1350b/Jak_prowadzic_klub_wiedzy_Cz_4_Kluby_online.pdf
     image: /assets/img/kluby_wiedzy_podrecznik_4.png
+  - title: Przygotuj się do klubu wiedzy! - krótki kurs (3 filmy i testy) do
+      samodzielnego przejścia
+    url: https://sites.google.com/frsi.org.pl/przygotuj-sie-do-klubu-wiedzy
+    image: /assets/img/kluby_wiedzy_przygotułu.png
+  - title: Forum moderatorów
+    image: /assets/img/discourse.png
+    url: https://community.p2pu.org
+    tag: forum
+  - title: Dodatkowe materiały dla moderatorów / moderatorek (po angielsku)
+    image: /assets/img/p2pu.jpeg
+    url: https://www.p2pu.org/en/facilitate
 layout: facilitate
 bundles:
   - style
