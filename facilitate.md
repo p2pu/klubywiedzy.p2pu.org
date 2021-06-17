@@ -30,7 +30,7 @@ resources:
   - title: Przygotuj się do klubu wiedzy! - krótki kurs (3 filmy i testy) do
       samodzielnego przejścia
     url: https://sites.google.com/frsi.org.pl/przygotuj-sie-do-klubu-wiedzy
-    image: /assets/img/kluby_wiedzy_przygotułu.png
+    image: /assets/img/kluby_wiedzy_przygotuj_sie.png
   - title: Forum moderatorów
     image: /assets/img/discourse.png
     url: https://community.p2pu.org
