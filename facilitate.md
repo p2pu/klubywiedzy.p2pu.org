@@ -31,6 +31,9 @@ resources:
       samodzielnego przejścia
     url: https://sites.google.com/frsi.org.pl/przygotuj-sie-do-klubu-wiedzy
     image: /assets/img/kluby_wiedzy_przygotuj_sie.png
+  - title: Niezbędnik (dobre praktyki i refleksje z krajów partnerskich)
+    url: https://biblioteki.org/dam/jcr:67e0d894-3978-4c43-af53-5e324a8c8f65/Niezbednik_Kluby_wiedzy_w_bibliotekach.pdf
+    image: /assets/img/niezbednik.png
   - title: Forum moderatorów
     image: /assets/img/discourse.png
     url: https://community.p2pu.org
