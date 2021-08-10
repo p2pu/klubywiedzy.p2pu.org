@@ -1,33 +1,29 @@
 ---
 layout: gdpr
 title: GDPR
-gdpr_copy: >
-  Peer 2 Peer University (P2PU) cares about privacy and does not unnecessarily
-  process or share your information. P2PU does not sell or give away any user
-  data to third parties.
+gdpr_copy: >-
+  Ochrona prywatności jest ważna dla Peer 2 Peer University (dalej „P2PU”),
+  dlatego nie przetwarzamy ani nie udostępniamy Pani/Pana danych osobowych,
+  jeśli nie jest to konieczne. Nie sprzedajemy ani nie przekazujemy danych
+  użytkowników osobom trzecim. 
 
 
-  When you sign up for a learning circle, your email address and information provided in the signup form will be shared with the facilitator of the learning circle. You should expect to receive at least one email when you sign up, one email per meeting and maybe one or two other emails from your facilitator with extra information and/or a request to provide your feedback on the experience. Additionally, if you opt-in to hearing about future learning opportunities from P2PU, you will receive infrequent emails (4 messages per year or less) from P2PU. 
+  Po zapisaniu się do klubu wiedzy Pani/Pana adres e-mail oraz informacje podane w formularzu rejestracyjnym są udostępniane moderatorowi/moderatorce tego klubu wiedzy. Otrzyma Pani/Pan wiadomość e-mail potwierdzającą zapisanie się do klubu wiedzy, a także przynajmniej jedną wiadomość dotyczącą każdego spotkania klubu wiedzy, ewentualnie dodatkową wiadomość lub wiadomości od moderatora/moderatorki z prośbą o informacje lub opinię na temat udziału w klubie. Ponadto, jeśli wyrazi Pani/Pan zgodę na otrzymywanie informacji o przyszłej ofercie edukacyjnej P2PU, od czasu do czasu (ok. 4 razy w roku lub rzadziej) otrzyma Pani/Pan wiadomość z opisem aktualnej oferty. Zgodę na otrzymywanie tych wiadomości może Pani/Pan wycofać w dowolnym momencie postępując zgodnie z instrukcjami zawartymi we wszystkich wysyłanych do Pani/Pana wiadomościach. Zgodę może Pani/Pan wycofać również na stronie: <https://learningcircles.p2pu.org/en/optout/>. 
 
 
-  If at any point you’d like to withdraw consent, you can do so by following the instructions included in all messages we send you. Alternatively, you can also withdraw consent on [this page](https://learningcircles.p2pu.org/en/optout/).
+  Zgodnie z art. 13 ust. 1 i ust. 2 ogólnego rozporządzenia o ochronie danych osobowych z dnia 27 kwietnia 2016 r. (RODO) informujemy, iż: 
 
 
-  In accordance with art. 13 section 1 and item 2 of the General Regulation on the Protection of Personal Data of April 27, 2016 (GDPR) we inform that:
+  * Administratorem Pani/Pana danych osobowych jest Peer 2 Peer University (P2PU), z siedzibą pod adresem: 2973 16th St., Suite 300, San Francisco, CA 94110, USA, posiadające numer identyfikacyjny EIN (Employer Identification Number): 27-5006096. 
+
+  * Podanie danych jest dobrowolne. Podanie danych jest niezbędne do zapisania się do klubów wiedzy. 
+
+  * Pani/Pana dane osobowe są udostępniane tylko tym podmiotom, które muszą mieć do nich dostęp w celu zagwarantowania jakości usługi (tj. P2PU, moderatorowi/moderatorce i organizacji prowadzącej klub wiedzy). 
+
+  * Dane osobowe będą przechowywane do czasu cofnięcia udzielonej zgody. Posiada Pani/Pan prawo dostępu do treści swoich danych i ich sprostowania, usunięcia, ograniczenia przetwarzania, prawo do przenoszenia danych, prawo do cofnięcia zgody w dowolnym momencie bez wpływu na zgodność z prawem przetwarzania którego dokonano na podstawie zgody przed jej cofnięciem.  
+
+  * Ponadto, ma Pani/Pan prawo wniesienia skargi do Prezesa Urzędu Ochrony Danych Osobowych gdy uzna Pani/Pan, iż przetwarzanie danych osobowych narusza RODO lub obowiązujące przepisy w zakresie przetwarzania danych osobowych.
 
 
-  - The administrator of your data is Peer 2 Peer University (P2PU ), with its registered address at 2973 16th St., Suite 300, San Francisco, CA 94110, USA under the Employer Identification Number 27-5006096.
-
-  - Providing data is voluntary, but necessary to participate in this program.
-
-  - Your personal data is provided only to those entities that must have access to them in order to guarantee the quality of the service (P2PU, the facilitator, and the organization hosting the learning circle).
-
-  - Personal data will be stored until the consent is withdrawn.
-
-  - You have the right to access your data and rectify it, delete it, limit processing, the right to transfer data, the right to withdraw consent at any time without affecting the lawfulness of the processing which was carried out on the basis of consent before its withdrawal.
-
-  - In addition, you have the right to lodge a complaint to the President of the Office for Personal Data Protection if you feel that the processing of personal data violates the GDPR or applicable provisions regarding the processing of personal data.
-
-
-  If you’d like more information, you can review our [privacy policy](https://www.p2pu.org/privacy/), [terms or service](https://www.p2pu.org/terms/) or contact us at privacy@p2pu.org.
+  Więcej informacji zawiera polityka prywatności P2PU <https://www.p2pu.org/privacy/> i warunki świadczenia usługi <https://www.p2pu.org/terms/>. Informacji udzuelamy także pocztą elektroniczną (kontakt: [privacy@p2pu.org](mailto:privacy@p2pu.org)).
 ---
