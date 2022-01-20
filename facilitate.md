@@ -42,6 +42,9 @@ resources:
   - title: Dodatkowe materiały dla moderatorów / moderatorek (po angielsku)
     image: /assets/img/p2pu.jpeg
     url: https://www.p2pu.org/en/facilitate
+  - title: Formularze P2PU po polsku
+    url: https://frsi.org.pl/wp-content/uploads/2022/01/Formularze_P2PU_PL.pdf
+    image: /assets/img/formularze_p2pu.png
 layout: facilitate
 bundles:
   - style
