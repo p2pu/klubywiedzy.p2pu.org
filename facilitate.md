@@ -45,6 +45,9 @@ resources:
   - title: Formularze P2PU po polsku
     url: https://frsi.org.pl/wp-content/uploads/2022/01/Formularze_P2PU_PL.pdf
     image: /assets/img/formularze_p2pu.png
+  - title: szablon certyfikatu
+    url: https://frsi.org.pl/wp-content/uploads/2022/01/kluby_wiedzy_certyfikat_wzor.pptx
+    image: /assets/img/ak_tlo_certyfikatu-1.png
 layout: facilitate
 bundles:
   - style
