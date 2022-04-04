@@ -48,6 +48,9 @@ resources:
   - title: szablon certyfikatu
     url: https://frsi.org.pl/wp-content/uploads/2022/01/kluby_wiedzy_certyfikat_wzor.pptx
     image: /assets/img/ak_tlo_certyfikatu-1.png
+  - title: Moderowanie spotkań (prezentacja)
+    url: https://frsi.org.pl/wp-content/uploads/2022/04/kluby_wiedzy_moderowanie.pdf
+    image: /assets/img/moderowanie_kluby_wiedzy_page.png
 layout: facilitate
 bundles:
   - style
