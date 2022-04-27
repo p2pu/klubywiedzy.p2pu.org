@@ -7,6 +7,9 @@ welcome: >-
 
 
   Klub wiedzy to grupa osób, które spotykają się regularnie w danym miejscu (np. w bibliotece) - po to, by wspólnie się czegoś uczyć. Osoby uczestniczące w spotkaniach korzystają z zasobów wiedzy dostępnych w internecie, uczą się od siebie nawzajem, a wsparcie zapewnia im moderator. Moderatorzy nie muszą być specjalistami w dziedzinach, których dotyczą kursy. Dlatego moderatorem - po przeszkoleniu i przygotowaniu - może zostać każdy.
+
+
+  Zapraszamy na spotkania moderatorów klubów wiedzy - grafik spotkań znajdziesz [tutaj](https://docs.google.com/spreadsheets/d/1a7CwE7AffHRG94rg-tD_C0oMbXjUI0wMxMvlg1r2Uhw/edit?usp=sharing).
 resources_title: Materiały dla moderatorów i moderatorek
 resources:
   - title: Kursy klubu wiedzy
